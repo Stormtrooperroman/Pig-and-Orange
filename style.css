@@ -1,0 +1,11 @@
+*
+{
+	color: mediumpurple;
+	text-shadow: 3px 5px 3px black;
+	background-color: #E4EFD1;
+	background-image:
+	radial-gradient(#FEFFFE 2px, transparent 3px, transparent 5px, #BAD78B 6px),
+	linear-gradient(#A6CC69 2px, transparent 4px, transparent 5px, #74924C 7px);
+	background-position: 0 0, 1em 1em;
+	background-size: 2em 2em, 2em 2em;
+}
