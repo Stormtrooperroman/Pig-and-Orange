@@ -30,9 +30,8 @@ function spawnOrange()
 {
 	speedX= 10;
 	speedY=1;
-	orange.style.left =Math.random()*(window.innerWidth -128) +'px';
+	orange.style.left =Math.random()*( window.innerWidth/2  -128) +'px';
 	orange.style.top = Math.random()*(window.innerHeight -128) +'px' ;
-
 }
 function moveOrange()
 {
